@@ -1,7 +1,7 @@
 # MNIST-C
 Fast handwritten digit recognition by using MNIST dataset in full C++ code
 
-The C++ programming language, Fastest and lowest memory usage processing in the world of programing. It load MNIST dataset to less than 10MB of RAM and test dataset images in few seconds. Let's go!
+The C++ programming language, Fastest processing and lowest memory usage in world of computer programing languages. It load MNIST dataset into less than 10MB of RAM and test dataset images in few seconds. Let's go!
 
 Minimum hardware requirements:
 
@@ -14,19 +14,19 @@ Intel pentium II CPU
 
 Requirements:
 
-"mnist_train.csv" and "mnist_test.csv" downloaded files from Google.
+"mnist_train.csv" and "mnist_test.csv" files from Google.
 
 Installed "Clang" compiler.
 
 
 Running instruction guide:
 
-1- Clone this repository.
+1- Clone this repository to your working directory.
 
 2- Go to cloned repository folder.
 
-3- Download required CSV files from Google to working directory.
+3- Download required CSV files from Google to repository folder.
 
-4- Compile and build binary file with "clang++" command.
+4- Compile "test.cpp" code and build binary file with "clang++" command.
 
 5- Execute binary file.
