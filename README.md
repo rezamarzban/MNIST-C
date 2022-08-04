@@ -17,3 +17,16 @@ Requirements:
 "mnist_train.csv" and "mnist_test.csv" downloaded files from Google.
 
 Installed "Clang" compiler.
+
+
+Running instruction guide:
+
+1- Clone this repository.
+
+2- Go to cloned repository folder.
+
+3- Download required CSV files from Google to working directory.
+
+4- Compile and build binary file with "clang++" command.
+
+5- Execute binary file.
