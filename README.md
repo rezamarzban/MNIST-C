@@ -9,7 +9,7 @@ Intel pentium II CPU
 
 64MB RAM
 
-100MB storage space
+100MB free disk space
 
 
 Requirements:
