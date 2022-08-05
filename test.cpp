@@ -121,4 +121,14 @@ string line;
  
  return 0;
 
+
+ /*
+ /	@author: Reza Marzban
+ /
+ /	GitHub.com/marzban2030/MNIST-C
+ /
+ /	Ver: 0.1.00
+ /
+ */
+
  }
