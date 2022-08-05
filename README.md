@@ -32,10 +32,8 @@ Running instruction guide:
 5- Execute binary file.
 
 Doing above instructions in my VPS:
-![Image1](https://github.com/marzban2030/MNIST-C/raw/main/test0100.jpg)
+![Image1](https://github.com/marzban2030/MNIST-C/raw/main/test0101.jpg)
 
-Result: "9609 out of 10001 testing images are passed."
-
-It means 96% accuracy for handwritten digit recognition by this C++ code. Actually this C++ code compare each BW test image pixels with all of BW train images pixels by means of bitwise operation and find difference between these, Then choose that train image which has minimum difference with desired test image.
+96% accuracy for handwritten digit recognition by this C++ code. Actually this C++ code compare each BW test image pixels with all of BW train images pixels by means of bitwise operation and find difference between these, Then choose that train image which has minimum difference with desired test image.
 
 At future versions of this C++ code, I define more effective comparison function to taking 99% accuracy at least.
