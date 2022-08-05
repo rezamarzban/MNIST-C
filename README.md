@@ -30,3 +30,10 @@ Running instruction guide:
 4- Compile "test.cpp" code and build binary file with "clang++" command.
 
 5- Execute binary file.
+
+Doing above instructions in my VPS:
+![Image1](https://github.com/marzban2030/MNIST-C/raw/main/test0100.jpg)
+
+Result: "9609 out of 10001 testing images are passed."
+
+It means 96% accuracy for handwritten digit recognition by this C++ code.
