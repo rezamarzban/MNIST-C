@@ -36,4 +36,6 @@ Doing above instructions in my VPS:
 
 Result: "9609 out of 10001 testing images are passed."
 
-It means 96% accuracy for handwritten digit recognition by this C++ code.
+It means 96% accuracy for handwritten digit recognition by this C++ code. Actually this C++ code compare each BW test image with all of BW train images by bitwise operation and find difference between these, Then choose that train image which has minimum difference with desired test image.
+
+At future versions of this C++ code, I define more effective comparison function to taking 99% accuracy at least.
