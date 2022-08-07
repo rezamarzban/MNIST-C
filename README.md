@@ -7,7 +7,7 @@ Minimum hardware requirements:
 
 Intel pentium II CPU
 
-64MB RAM
+32MB RAM
 
 100MB free disk space
 
@@ -36,6 +36,8 @@ Doing above instructions in my VPS:
 
 96% accuracy for handwritten digit recognition by this C++ code. Actually this C++ code compare each BW test image pixels with all of BW train images pixels by means of bitwise operation after turning each train and test image to a 784 bit binary value, And find difference between these; Then choose that train image which has minimum difference with desired test image.
 
-Speed of test images per second = CPU speed in HZ / (784bit × 60000 train images)
+Speed of test images per second = CPU single core speed in HZ / (784bit × 60000 train images)
+
+For example a 233MHZ Pentium II processor can test 5 images per second = 233,000,000/(784×60,000). It means this CPU recognize a handwritten digit in 0.2 second. The C++ programing language is mother of other programing languages. This C++ code can be compiled in S100 computers with 33MHZ 80386 microprocessor while todays AI digits recognition such as TensorFlow need very strong hardwares (Corei7 CPU with 4GB RAM and strong GPU).
 
 At future versions of this C++ code, I define more effective comparison function to taking 99% accuracy at least.
