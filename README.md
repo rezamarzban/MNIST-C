@@ -3,7 +3,7 @@ Fast handwritten digit recognition by using MNIST dataset in full C++ code
 
 The C++ programming language, Fastest processing and lowest memory usage in world of computer programing languages. It is also mother of other programing languages. It load MNIST dataset into less than 10MB of RAM and test dataset images in few seconds. Let's go!
 
-Minimum hardware requirements: (tested)
+Minimum hardware requirements: (tested with Ubuntu 18.04)
 
 Intel pentium III CPU
 
