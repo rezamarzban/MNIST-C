@@ -38,7 +38,7 @@ Doing above instructions in my VPS:
 
 Speed of images testing per second = CPU single core speed in HZ / (784bit × 60000 train images)
 
-For example a 233MHZ Pentium II processor can test 5 images per second = 233,000,000/(784×60,000) by this C++ code. It means this CPU recognize a handwritten digit in 0.2 second. This C++ code can be compiled and executed in an old computer with 80386 microprocessor but todays AI digits recognition programs/modules such as Google TensorFlow need very strong hardwares (Corei7 CPU with 4GB RAM and strong GPU).
+For example a 450MHZ Pentium II processor can test 10 images per second = 450,000,000/(784×60,000) by this C++ code. It means this CPU recognize a handwritten digit in 0.1 second. This C++ code can be compiled and executed in an old computer with pentium III processor but todays AI digits recognition programs/modules such as Google TensorFlow need very strong hardwares (Corei7 CPU with 4GB RAM and strong GPU).
 
 At future versions of this C++ code, I will define more effective comparison function to taking 99% accuracy at least. I will focus on maximum speed and accuracy, And less memory usage.
 
