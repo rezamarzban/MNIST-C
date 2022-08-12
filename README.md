@@ -3,7 +3,7 @@ Fast handwritten digit recognition by using MNIST dataset in full C++ code
 
 The C++ programming language, Fastest processing and lowest memory usage (after assembly programing language) in world of computer programing languages. It is also mother of other programing languages. It load MNIST dataset into less than 10MB of RAM and test dataset images in few seconds. Let's go!
 
-Numba module provide assembly compilation of basic and Numpy functions in the Python programing language, Therefore Python is more user friendly that C++. Anyway its probably project will be in another repository.
+Numba module provide assembly compilation of basic and Numpy functions in the Python programing language, Therefore Python is more user friendly that C++. Anyway its probably future project will be in the another repository.
 
 Minimum hardware requirements: (tested)
 
