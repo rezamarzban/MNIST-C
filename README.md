@@ -34,7 +34,7 @@ Running instruction guide:
 5- Execute binary file.
 
 Doing above instructions in my VPS:
-![Image1](https://github.com/marzban2030/MNIST-C/raw/main/test0101.jpg)
+![Image1](https://github.com/marzban2030/MNIST-C/raw/main/test0102.jpg)
 
 96% accuracy for handwritten digit recognition by this C++ code. Actually this C++ code compare each BW test image pixels with all of BW train images pixels by means of bitwise operation after turning each train and test image to a 784 bit binary value, And find difference between these; Then choose that train image which has minimum difference with desired test image.
 
