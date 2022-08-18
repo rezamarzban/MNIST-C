@@ -44,4 +44,4 @@ For example a 450MHZ Pentium III CPU with 64MB RAM can test 10 images per second
 
 At future versions of this C++ code, I will define more effective comparison function to taking 99% accuracy at least. I will focus on maximum speed and accuracy, And less memory usage.
 
-This project can be developed easily to recognize everything in computers, automotive cars, robots, drones, space telescopes and so on.
+This project can be developed easily to recognize everything by computers, automotive cars, robots, drones, space telescopes and so on.
