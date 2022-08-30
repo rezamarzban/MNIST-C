@@ -26,8 +26,6 @@ Another requirements to running built executable file from "test.cpp":
 
 "mnist_train.csv" and "mnist_test.csv" files from Google.
 
-Installed "Clang" compiler.
-
 
 Running instruction guide:
 
