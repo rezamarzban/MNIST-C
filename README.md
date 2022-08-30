@@ -15,9 +15,9 @@ Intel pentium III CPU
 
 Minimum hardware requirements to running built executable file from "PREDICT.C":
 
-386DX processor
+Intel 386 processor
 
-8MB RAM
+5MB RAM
 
 10MB free disk space
 
