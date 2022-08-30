@@ -5,7 +5,7 @@ The C/C++ programming language, Fastest processing and lowest memory usage (afte
 
 Also Numba module generate and compile assembly code of basic and Numpy functions in the Python programing language which make it fastest, Therefore Python is more user friendly than C++ but it use more RAM. Anyway its probably future project will be in the another repository.
 
-Minimum hardware requirements: (tested)
+Minimum hardware requirements to running built executable file from "test.cpp": (tested)
 
 Intel pentium III CPU
 
@@ -13,8 +13,10 @@ Intel pentium III CPU
 
 100MB free disk space
 
+Minimum hardware requirements to running built executable file from "PREDICT.C":
 
-Requirements:
+
+Another requirements to running built executable file from "test.cpp":
 
 "mnist_train.csv" and "mnist_test.csv" files from Google.
 
