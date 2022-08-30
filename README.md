@@ -19,7 +19,7 @@ Minimum hardware requirements to running built executable file from "PREDICT.C":
 
 8MB RAM
 
-20MB free disk space
+10MB free disk space
 
 
 Another requirements to running built executable file from "test.cpp":
