@@ -58,13 +58,13 @@ void showimg(char c[98])
 void reportmatch(int m[10])
 {
 	int total = 0;
-	int i;
+	int i, occurs;
 	
 	for(i=0;i<10;i++){
 		total = total + m[i];
 	}
 	for(i=0;i<10;i++){
-		int occurs = m[i];
+		occurs = m[i];
 		printf("%d: %d%% \n", i, (100*occurs/total));
 		
 	}
@@ -102,12 +102,12 @@ int main()
    int prediction;
    char l;
 
-   fp = fopen("mnistImages.dat", "rb");
+   fp = fopen("images.dat", "rb");
    
-   label = fopen("mnistLabels.txt", "r");
+   label = fopen("labels.txt", "r");
    
 
-   seek= 5;
+   seek= 2;
    fseek(fp, seek*count, SEEK_SET);
    fread(&img, sizeof(char), count, fp);
    seek++;
