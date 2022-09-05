@@ -21,6 +21,7 @@ Minimum hardware requirements to running built executable file from "PREDICT.C":
 
 10MB free disk space
 
+* "PREDICT.C" code Compiled successfully in Borland Turbo C 2.0 in a VM with 8086 microprocessor and 640kB RAM running MS-DOS 3.20 OS.
 
 Another requirements to running built executable file from "test.cpp":
 
