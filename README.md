@@ -15,13 +15,13 @@ Intel pentium III CPU
 
 Minimum hardware requirements to running built executable file from "PREDICT.C":
 
-8088 processor
+8088 microprocessor
 
 384KB RAM (<1MB RAM)
 
 10MB free disk space
 
-* "PREDICT.C" code Compiled and tested successfully in Borland Turbo C 2.0 in a VM with 8086 microprocessor and 640kB RAM running MS-DOS 3.20 OS, Because of old systems limits you should change "mnistImages.dat" and "mnistLabels.txt" file names to short names (for example:"images.dat" and "labels.txt") in the directory and "PREDICT.C" code as same as together.
+* "PREDICT.C" code Compiled and tested successfully in Borland Turbo C 2.0 in a VM with 8086 microprocessor and 640kB RAM running MS-DOS 3.20 OS, Because of old systems limits you should change "mnistImages.dat" and "mnistLabels.txt" file names to short names (for example:"images.dat" and "labels.txt") in the directory and "PREDICT.C" code same as together.
 
 Other requirements to running built executable file from "test.cpp":
 
