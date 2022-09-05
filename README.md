@@ -29,7 +29,7 @@ Other requirements to running built executable file from "test.cpp":
 
 Other requirements to running built executable file from "PREDICT.C":
 
-"mnistImages.dat" and "MNIST labels.txt" files that made by running "test.cpp" code.
+"mnistImages.dat" and "mnistLabels.txt" files that made by running "test.cpp" code.
 
 
 Running instruction guide:
