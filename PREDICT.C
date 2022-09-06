@@ -102,9 +102,9 @@ int main()
    int prediction;
    char l;
 
-   fp = fopen("images.dat", "rb");
+   fp = fopen("mnistImages.dat", "rb");
    
-   label = fopen("labels.txt", "r");
+   label = fopen("mnistLabels.txt", "r");
    
 
    seek= 2;
