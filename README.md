@@ -56,3 +56,11 @@ For example a 450MHZ Pentium III CPU with 64MB RAM can test 10 images per second
 At future versions of this C/C++ code, I will define more effective comparison function to taking 99% accuracy at least. I will focus on maximum speed and accuracy, And less memory usage.
 
 This project can be developed easily to recognize everything by computers, automotive cars, robots, drones, space telescopes and so on.
+
+PREDICT.C in action:
+
+![image2](https://github.com/marzban2030/MNIST-C/raw/main/PREDICT_C_in_action.gif)
+
+100% prediction accuracy, PREDICT.C code load 70,000 train and test images in less than one second, And will do trillion compares just in less than one second ... .
+
+It use only less than 1MB of RAM.
