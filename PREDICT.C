@@ -134,7 +134,7 @@ int main()
         }
    }
    
-   printf("It is probably a digit %d.\nMatch percents:\n", argmax(match));
+   printf("It is probably a digit %d.\nPrediction accuracy:\n", argmax(match));
    
    reportmatch(match);
    
