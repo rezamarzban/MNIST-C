@@ -61,6 +61,6 @@ PREDICT.C in action:
 
 ![image2](https://github.com/marzban2030/MNIST-C/raw/main/PREDICT_C_in_action.gif)
 
-100% prediction accuracy, PREDICT.C code load 70,000 train and test images in less than one second, And will do trillion compares just in less than one second ... .
+100% prediction accuracy, PREDICT.C code load 70,000 train and test images in less than one second, And do trillion compares just in less than one second ... .
 
 It use only less than 1MB of RAM.
