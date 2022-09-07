@@ -38,7 +38,7 @@ Running instruction guide:
 
 2- Go to cloned repository folder.
 
-3- Unzip "UnzipMe.zip" file which is in the repository folder or download required CSV files from Google to repository folder.
+3- Download required CSV files from Google to repository folder.
 
 4- Compile "test.cpp" code and build binary file with "clang++" command.
 
