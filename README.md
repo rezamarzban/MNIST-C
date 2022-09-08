@@ -63,4 +63,4 @@ PREDICT.C in action:
 
 100% prediction accuracy, PREDICT.C code load 70,000 train and test images in less than one second, And do trillion compares just in less than one second ... .
 
-It use only less than 1MB of RAM and can be ran by all CPUs.
+It use only less than 1MB of RAM and can be ran by all CPU models even 8088 microprocessor.
